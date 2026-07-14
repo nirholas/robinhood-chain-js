@@ -266,8 +266,4 @@ beyond what this facade exposes.
 
 ## License
 
-[Apache-2.0](./LICENSE) © 2026 nirholas
-
----
-
-Built by [nirholas](https://x.com/nichxbt) · [three.ws](https://three.ws)
+All rights reserved. See [LICENSE](LICENSE).
