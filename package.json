@@ -1,6 +1,6 @@
 {
   "name": "hood-js",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "The five-lines-to-your-first-trade wrapper for Robinhood Chain (ID 4663). One import, sensible defaults, promise-first, browser + Node: stock prices, portfolios, trending memecoins, launch streams, and swaps.",
   "keywords": [
     "robinhood",
@@ -18,11 +18,11 @@
   "author": "nirholas (https://x.com/nichxbt)",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/nirholas/hood-js.git"
+    "url": "git+https://github.com/nirholas/robinhood-chain-js.git"
   },
-  "homepage": "https://nirholas.github.io/hood-js/",
+  "homepage": "https://nirholas.github.io/robinhood-chain-js/",
   "bugs": {
-    "url": "https://github.com/nirholas/hood-js/issues"
+    "url": "https://github.com/nirholas/robinhood-chain-js/issues"
   },
   "type": "module",
   "engines": {
