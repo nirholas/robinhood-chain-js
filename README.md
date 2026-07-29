@@ -16,7 +16,7 @@ No RPC URL, no chain config, no ABI. Public RPC by default. Read calls (`price`,
 `portfolio`, `coins`, `launches`, `quote`) need nothing at all — no wallet, no key. Only
 `swap` needs one.
 
-Docs + live in-browser demo: **https://nirholas.github.io/hood-js/**
+Docs + live in-browser demo: **https://nirholas.github.io/robinhood-chain-js/**
 
 ## Install
 
