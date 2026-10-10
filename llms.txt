@@ -1,0 +1,28 @@
+# robinhood-chain-js
+
+> The 5-lines-to-your-first-trade wrapper for Robinhood Chain. One import, sensible defaults, promise-first, browser + Node: prices, portfolios, memecoins, swaps. npm: hood-js.
+
+robinhood-chain-js is an open-source repository by nirholas, part of the three.ws ecosystem.
+
+## Docs
+
+- [README](https://github.com/nirholas/robinhood-chain-js/blob/HEAD/README.md): install, usage and reference
+- [Install](https://github.com/nirholas/robinhood-chain-js/blob/HEAD/README.md#install)
+- [30-second quickstart](https://github.com/nirholas/robinhood-chain-js/blob/HEAD/README.md#30-second-quickstart)
+- [API reference](https://github.com/nirholas/robinhood-chain-js/blob/HEAD/README.md#api-reference)
+- [Testnet guide](https://github.com/nirholas/robinhood-chain-js/blob/HEAD/README.md#testnet-guide)
+- [Errors](https://github.com/nirholas/robinhood-chain-js/blob/HEAD/README.md#errors)
+- [Bundle size](https://github.com/nirholas/robinhood-chain-js/blob/HEAD/README.md#bundle-size)
+- [Browser usage](https://github.com/nirholas/robinhood-chain-js/blob/HEAD/README.md#browser-usage)
+- [Testing](https://github.com/nirholas/robinhood-chain-js/blob/HEAD/README.md#testing)
+- [AGENTS.md](https://github.com/nirholas/robinhood-chain-js/blob/HEAD/AGENTS.md): guidance for coding agents
+- [Full text for LLMs](https://github.com/nirholas/robinhood-chain-js/blob/HEAD/llms-full.txt): the README inlined
+
+## Project
+
+- [Source](https://github.com/nirholas/robinhood-chain-js)
+- [Issues](https://github.com/nirholas/robinhood-chain-js/issues)
+- [Discussions](https://github.com/nirholas/robinhood-chain-js/discussions)
+- [Homepage](https://nirholas.github.io/robinhood-chain-js/)
+- [three.ws](https://three.ws): the platform this is part of
+- [All repositories by nirholas](https://github.com/nirholas/nirholas#readme)
