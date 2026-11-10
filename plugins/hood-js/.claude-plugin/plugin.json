@@ -1,0 +1,17 @@
+{
+  "name": "hood-js",
+  "version": "0.1.1",
+  "description": "JavaScript wrapper for Robinhood Chain: Stock Token prices, portfolios, trending memecoins, launch streams and swaps.",
+  "author": {
+    "name": "nirholas"
+  },
+  "repository": "https://github.com/nirholas/robinhood-chain-js",
+  "homepage": "https://nirholas.github.io/robinhood-chain-js/",
+  "keywords": [
+    "robinhood-chain",
+    "hood-js",
+    "stock-tokens",
+    "memecoins",
+    "sdk"
+  ]
+}
